@@ -22,5 +22,12 @@
         <description>El lenguaje de php</description>
         <author>fernando paniagua</author>
     </item>
+    <item>
+        <title>jerez de la fra</title>
+        <link>https://www.paraninfo.es/rss/python.html</link>
+        <description>jerez</description>
+        <author>fernando paniagua</author>
+    </item>
+
     </channel>
 </rss>
