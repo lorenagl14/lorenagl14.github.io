@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+    <title>Noticias de Jerez</title>
+    <link>https://www.diariodejerez.es/</link>
+    <description>canal sobre noticias en jerez</description>
+    <item>
+        <title>Incendio en la iglesia de San Miguel de Jerez</title>
+        <link>https://www.diariodejerez.es/jerez/incendio-iglesia-san-miguel-jerez_0_2003215647.html</link>
+        <description>Bomberos, Policía Local y Nacional colaboran para la extinción del fuego en el templo jerezano</description>
+        <author>Redacción Jerez</author>
+    </item>
+    <item>
+        <title>Descubrimientos seleccionados desde Jerez</title>
+        <link>https://www.diariodejerez.es/jerez/descubrimientos-seleccionados-jerez-francisco-jose-morales-siempre-literatura-latina-xvii-imprenta-humanismo_0_2003206041.html</link>
+        <description>El investigador jerezano Francisco José Morales publica un libro con una colección de literatura latina editada en Jerez, lugar al que vinieron humanistas de toda España a imprimir</description>
+        <author>Arantxa Cala</author>
+    </item>
+    <item>
+        <title>86 nuevas viviendas en el centro histórico de Jerez</title>
+        <link>https://www.diariodejerez.es/jerez/seis-venta-forzosas-fincas-jerez-86-viviendas-centro-historico_0_2003216306.html</link>
+        <description>“Está cumpliendo nuestro objetivo de ampliar el parque de viviendas en la zona para favorecer la llegada de nuevos residentes”</description>
+        <author>Redacción Jerez</author>
+    </item>
+    </channel>
+</rss>
